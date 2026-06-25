@@ -9,16 +9,11 @@ author_profile: true
 
 ### 📄 Articles publiés
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, [L. Ziad](https://ziadlamia.github.io/). [**A Nonlinear Second Order Problem Involving Nonlocal Diffusion for Image Processing**](https://doi.org/10.1007/s40314-026-03747-9),*. Comp. Appl. Math.*, 2026.
 
-  **Clarivate Analytics Impact Factor 2024:** 2.5  
-  **SJR 2024:** 0.631 — **Category:** Q1
 
   ---
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine. [**Nonlocal p-Biharmonic model for Cauchy noise removal**](https://doi.org/10.3934/mfc.2025003). *Mathematical Foundations of Computing*, 2025.  
-  **Clarivate Analytics Impact Factor 2025:** 1.3  
-  **SJR 2024:** 0.563 — **Category:** Q2
+
 
 ---
 
